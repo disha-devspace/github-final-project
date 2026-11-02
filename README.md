@@ -8,3 +8,4 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r/100
+echo "Fixed a typo in the documentation." >> README.md
